@@ -1,0 +1,2477 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hawthorn School (unofficial)//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Hawthorn School
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:68a461102065f66e94824e45@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260508T120500Z
+DTEND:20260508T130500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t-fksmc-sxt55-5ltck
+END:VEVENT
+BEGIN:VEVENT
+UID:69ddefa366dba2673c4c58c9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260508T134500Z
+DTEND:20260508T144500Z
+SUMMARY:Mother/Son Bagel Brunch
+URL:https://www.thehawthornschool.com/calendar/mothersonbrunch
+END:VEVENT
+BEGIN:VEVENT
+UID:68a495e0feefb1492faccd40@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260508T173000Z
+DTEND:20260508T183000Z
+SUMMARY:Spring Concert & Art Showcase
+URL:https://www.thehawthornschool.com/calendar/spring-concert-art-showcase
+END:VEVENT
+BEGIN:VEVENT
+UID:68cd196eb1cb951d570d3dfa@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260513T130000Z
+DTEND:20260513T140000Z
+SUMMARY:Holy Mass & Sacrament of First Penance for Girls
+URL:https://www.thehawthornschool.com/calendar/holy-mass-sacrament-of-first
+ -penance-for-girls
+END:VEVENT
+BEGIN:VEVENT
+UID:69a8727de9986c7dbbbdefda@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260516T130000Z
+DTEND:20260516T200000Z
+SUMMARY:Fatherhood Conference
+URL:https://www.thehawthornschool.com/calendar/fatherhood-conference
+END:VEVENT
+BEGIN:VEVENT
+UID:68cd19a0bc58573f8cb4050e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260520T130000Z
+DTEND:20260520T140000Z
+SUMMARY:Holy Mass & Sacrament of First Penance for Boys
+URL:https://www.thehawthornschool.com/calendar/holy-mass-sacrament-of-first
+ -penance-for-boys
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45f47f8d86f30cef3f73f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260522T120500Z
+DTEND:20260522T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98-hyh8g-4p2xl-nwxnf
+END:VEVENT
+BEGIN:VEVENT
+UID:68a49614a501025e22987620@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260525T040100Z
+DTEND:20260526T035000Z
+SUMMARY:Memorial Day
+URL:https://www.thehawthornschool.com/calendar/memorial-day
+END:VEVENT
+BEGIN:VEVENT
+UID:68cd19c5fde8f43e9bda3981@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260528T173000Z
+DTEND:20260528T183000Z
+SUMMARY:First Communion Rehearsal
+URL:https://www.thehawthornschool.com/calendar/first-communion-rehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:68aed01453b23e70f9b0363e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260531T143000Z
+DTEND:20260531T160000Z
+SUMMARY:Hawthorn's First Communion
+URL:https://www.thehawthornschool.com/calendar/hawthorns-first-communion
+END:VEVENT
+BEGIN:VEVENT
+UID:68a461348240e60a2eac33f4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260605T120500Z
+DTEND:20260605T130500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t-fksmc-sxt55-5ltck-cpx3d
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45f62e07f7771bd23753d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260609T120500Z
+DTEND:20260609T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98-hyh8g-4p2xl-nwxnf-98tk6
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4970ddbbf916c0a469cd0@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260610T040100Z
+DTEND:20260611T035000Z
+SUMMARY:End of the Fourth Marking Period
+URL:https://www.thehawthornschool.com/calendar/end-of-the-fourth-marking-pe
+ riod-1
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4974d478abe253aa9dc3b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260612T160000Z
+DTEND:20260612T160100Z
+SUMMARY:Last Day of School
+URL:https://www.thehawthornschool.com/calendar/last-day-of-school
+END:VEVENT
+BEGIN:VEVENT
+UID:68a49829cc467f13a34748a3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260706T130000Z
+DTEND:20260710T183000Z
+SUMMARY:The Dangerous Camp for Boys
+URL:https://www.thehawthornschool.com/calendar/summer-camp
+END:VEVENT
+BEGIN:VEVENT
+UID:69b90b036607c706860651c0@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260706T130000Z
+DTEND:20260710T183000Z
+SUMMARY:Daring Camp for Girls
+URL:https://www.thehawthornschool.com/calendar/2026daringcampforgirls
+END:VEVENT
+BEGIN:VEVENT
+UID:69b90b52a642ea16e6df6bc9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260706T130000Z
+DTEND:20260710T183000Z
+SUMMARY:Forest School Adventure Camp
+URL:https://www.thehawthornschool.com/calendar/2026-forest-school-adventure
+ -camp
+END:VEVENT
+BEGIN:VEVENT
+UID:69bbee81a35d337e3b3d4195@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260713T130000Z
+DTEND:20260717T140000Z
+SUMMARY:Daring Camp for Girls II
+URL:https://www.thehawthornschool.com/calendar/2026daringcampforgirls-t8cnc
+END:VEVENT
+BEGIN:VEVENT
+UID:69bbee102146782c42e79c27@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260713T130000Z
+DTEND:20260717T183000Z
+SUMMARY:The Dangerous Camp for Boys II
+URL:https://www.thehawthornschool.com/calendar/summer-camp-h7b69
+END:VEVENT
+BEGIN:VEVENT
+UID:69bbee4bd3a8c560b2881618@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260713T130000Z
+DTEND:20260717T183000Z
+SUMMARY:Forest School Adventure Camp II
+URL:https://www.thehawthornschool.com/calendar/2026-forest-school-adventure
+ -camp-6n6lr
+END:VEVENT
+BEGIN:VEVENT
+UID:69b90ba445fd00326530c63c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260713T160000Z
+DTEND:20260717T183000Z
+SUMMARY:Storybook Ballet Camp
+URL:https://www.thehawthornschool.com/calendar/2026-storybook-ballet-camp
+END:VEVENT
+BEGIN:VEVENT
+UID:69b90c1600e36c44f16d1d8c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260720T130000Z
+DTEND:20260724T160000Z
+SUMMARY:Slapshots &amp\; Stories
+URL:https://www.thehawthornschool.com/calendar/2026slapshots-stories
+END:VEVENT
+BEGIN:VEVENT
+UID:68a498ca7f5b744b81a67787@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260720T133000Z
+DTEND:20260723T183000Z
+SUMMARY:Women's Faculty Workshop
+URL:https://www.thehawthornschool.com/calendar/womens-faculty-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:69b90c89ee05d21e75d68945@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260824T130000Z
+DTEND:20260828T160000Z
+SUMMARY:Hit The Ground Running Camp
+URL:https://www.thehawthornschool.com/calendar/2026hit-the-ground-running-c
+ amp
+END:VEVENT
+BEGIN:VEVENT
+UID:69bbec219ef030282a0f648a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260824T130000Z
+DTEND:20260828T160000Z
+SUMMARY:"Grow Strong" Back-to-School Camp
+URL:https://www.thehawthornschool.com/calendar/grow-strong-back-to-school-c
+ amp
+END:VEVENT
+BEGIN:VEVENT
+UID:68a495aafeefb1492facc5be@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260501T120000Z
+DTEND:20260501T183000Z
+SUMMARY:St. Joseph the Worker Festival Day
+URL:https://www.thehawthornschool.com/calendar/st-joseph-the-worker-festiva
+ l-day
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4956da3dc033eb89170d1@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+SUMMARY:Annual Spring Soiree
+URL:https://www.thehawthornschool.com/calendar/annual-spring-soiree
+END:VEVENT
+BEGIN:VEVENT
+UID:69cb895762d868322d4acc08@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260428T190000Z
+DTEND:20260428T220000Z
+SUMMARY:Chess Tournament
+URL:https://www.thehawthornschool.com/calendar/chess-tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:69bbbc5061aa2c796e3dcd26@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260424T230000Z
+DTEND:20260425T010000Z
+SUMMARY:Father-Daughter Dance
+URL:https://www.thehawthornschool.com/calendar/father-daughter-dance
+END:VEVENT
+BEGIN:VEVENT
+UID:68a463964f583f5cb1545380@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260424T140000Z
+DTEND:20260424T170000Z
+SUMMARY:Hawthorn Open House
+URL:https://www.thehawthornschool.com/calendar/hawthorn-open-house-pmwlw-ln
+ wnf
+END:VEVENT
+BEGIN:VEVENT
+UID:69a86c1f2c76811c00d80b48@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260418T130000Z
+DTEND:20260418T200000Z
+SUMMARY:Motherhood Conferences
+URL:https://www.thehawthornschool.com/calendar/motherhood-conferences
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460f84c2aec5d476c2722@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260417T120500Z
+DTEND:20260417T130500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t-fksmc-sxt55
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45f2b65d66949562cf3fc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260416T120500Z
+DTEND:20260416T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98-hyh8g-4p2xl
+END:VEVENT
+BEGIN:VEVENT
+UID:69170af66369524aa093b2bd@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260412T143000Z
+DTEND:20260412T153000Z
+SUMMARY:2026 Hawthorn Family (April)
+URL:https://www.thehawthornschool.com/calendar/2026-hawthorn-family-mass-ap
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4951c40000506dbd3b748@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260402T160000Z
+DTEND:20260413T035000Z
+SUMMARY:Easter Break
+URL:https://www.thehawthornschool.com/calendar/easter-break-1
+END:VEVENT
+BEGIN:VEVENT
+UID:68a49495feefb1492fac6df0@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260331T190000Z
+DTEND:20260331T230000Z
+SUMMARY:Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-4
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4945974c70a6e057e8a8b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260327T040100Z
+DTEND:20260328T035000Z
+SUMMARY:End of the Third Marking Period
+URL:https://www.thehawthornschool.com/calendar/end-of-the-third-marking-per
+ iod-2
+END:VEVENT
+BEGIN:VEVENT
+UID:696a0ee1a72d8b4db2702122@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260326T220000Z
+DTEND:20260327T000000Z
+SUMMARY:Sacrament of Confirmation
+URL:https://www.thehawthornschool.com/calendar/sacramentofconfirmation
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4941eb2a8b73cd833d272@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260325T120000Z
+DTEND:20260325T183000Z
+SUMMARY:Annunciation Festival Day
+URL:https://www.thehawthornschool.com/calendar/annunciation-festival-day
+END:VEVENT
+BEGIN:VEVENT
+UID:696a0e74cf867b1f21f906b9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260324T200000Z
+DTEND:20260324T204500Z
+SUMMARY:Confirmation Rehearsal
+URL:https://www.thehawthornschool.com/calendar/confirmationrehearsal
+END:VEVENT
+BEGIN:VEVENT
+UID:696a0d89d698d160c87b9f7f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260321T180000Z
+DTEND:20260321T220000Z
+SUMMARY:Confirmation Retreat
+URL:https://www.thehawthornschool.com/calendar/confirmation-retreat
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45f15ba29875c1cd15956@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260319T120500Z
+DTEND:20260319T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98-hyh8g
+END:VEVENT
+BEGIN:VEVENT
+UID:69170ac9fde3c7260b7aeadf@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260315T143000Z
+DTEND:20260315T153000Z
+SUMMARY:2026 Hawthorn Family (March)
+URL:https://www.thehawthornschool.com/calendar/2026-hawthorn-family-mass-ma
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460dc0f690d572ee60dd2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260306T130500Z
+DTEND:20260306T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t-fksmc
+END:VEVENT
+BEGIN:VEVENT
+UID:68a49357ab070650e495ff9b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260214T170000Z
+DTEND:20260223T045000Z
+SUMMARY:Winter Break
+URL:https://www.thehawthornschool.com/calendar/winter-break
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45ef858ceca20af7255e3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260213T130500Z
+DTEND:20260213T140500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98
+END:VEVENT
+BEGIN:VEVENT
+UID:69170a27240a4a2991202ad5@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260208T153000Z
+DTEND:20260208T163000Z
+SUMMARY:2026 Hawthorn Family (February)
+URL:https://www.thehawthornschool.com/calendar/2026-hawthorn-family-mass-fe
+ b
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460c1e07f7771bd23ae42@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260206T130500Z
+DTEND:20260206T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t
+END:VEVENT
+BEGIN:VEVENT
+UID:68a492e659383c0d13faf596@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260201T000000Z
+DTEND:20260201T030000Z
+SUMMARY:Couples’ Dinner
+URL:https://www.thehawthornschool.com/calendar/couples-dinner-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6968ab9c2bb10c77a557498e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260122T050000Z
+DTEND:20260125T160000Z
+SUMMARY:Hawthorn Family Ski Trip to West Mountain
+URL:https://www.thehawthornschool.com/calendar/hawthorn-family-ski-trip-to-
+ west-mountain
+END:VEVENT
+BEGIN:VEVENT
+UID:6968a9a13d86126a2a4225ad@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260122T000000Z
+DTEND:20260122T010000Z
+SUMMARY:Fathers’ League Meetup
+URL:https://www.thehawthornschool.com/calendar/fathers-league-meetup
+END:VEVENT
+BEGIN:VEVENT
+UID:68a492ad97d4ab26089b7249@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260121T200000Z
+DTEND:20260122T000000Z
+SUMMARY:Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-3
+END:VEVENT
+BEGIN:VEVENT
+UID:68a49260e21fb1402abc8f21@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260119T050100Z
+DTEND:20260120T045000Z
+SUMMARY:Martin Luther King Day
+URL:https://www.thehawthornschool.com/calendar/martin-luther-king-day
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45eb6b3601440bf240cce@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260116T130500Z
+DTEND:20260116T140500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4920ee0f3066e1d63bd0c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260116T050100Z
+DTEND:20260117T045000Z
+SUMMARY:End of the Second Marking Period
+URL:https://www.thehawthornschool.com/calendar/end-of-the-second-marking-pe
+ riod
+END:VEVENT
+BEGIN:VEVENT
+UID:68a463964f583f5cb1545380@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260424T140000Z
+DTEND:20260424T170000Z
+SUMMARY:Hawthorn Open House
+URL:https://www.thehawthornschool.com/calendar/hawthorn-open-house-pmwlw-ln
+ wnf
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460f84c2aec5d476c2722@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260417T120500Z
+DTEND:20260417T130500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t-fksmc-sxt55
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45f2b65d66949562cf3fc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260416T120500Z
+DTEND:20260416T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98-hyh8g-4p2xl
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45f15ba29875c1cd15956@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260319T120500Z
+DTEND:20260319T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98-hyh8g
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460dc0f690d572ee60dd2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260306T130500Z
+DTEND:20260306T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t-fksmc
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45ef858ceca20af7255e3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260213T130500Z
+DTEND:20260213T140500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec-8zd98
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460c1e07f7771bd23ae42@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260206T130500Z
+DTEND:20260206T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h-twz6t
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45eb6b3601440bf240cce@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260116T130500Z
+DTEND:20260116T140500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx-lk5ec
+END:VEVENT
+BEGIN:VEVENT
+UID:68a460792065f66e94823946@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20260109T130500Z
+DTEND:20260109T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8-atk3h
+END:VEVENT
+BEGIN:VEVENT
+UID:68a49192aa65f322db4ce266@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251220T050000Z
+DTEND:20260105T045000Z
+SUMMARY:Christmas Break
+URL:https://www.thehawthornschool.com/calendar/christmas-break-2
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45de88369620ec06dc48b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251219T130500Z
+DTEND:20251219T140500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr-84
+ ptx
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4915df1b5aa349d9d2c69@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251214T190000Z
+DTEND:20251214T220000Z
+SUMMARY:Hawthorn Christmas Party
+URL:https://www.thehawthornschool.com/calendar/hawthorn-christmas-party-2
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45e347d21cb0b9552b374@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251205T130500Z
+DTEND:20251205T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc-kbf3
+ 8
+END:VEVENT
+BEGIN:VEVENT
+UID:68a490fc65a2f01a95a39f9d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251126T170000Z
+DTEND:20251201T045000Z
+SUMMARY:Thanksgiving Break
+URL:https://www.thehawthornschool.com/calendar/thanksgiving-break-2
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45dc50db6a833163ed122@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251121T130500Z
+DTEND:20251121T140500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-gmrsr
+END:VEVENT
+BEGIN:VEVENT
+UID:68a490bd67065914a20e9de5@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251121T000000Z
+DTEND:20251121T020000Z
+SUMMARY:Art &amp\; Humanities Night
+URL:https://www.thehawthornschool.com/calendar/art-night
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45e176f04792e2faabc61@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251114T130500Z
+DTEND:20251114T140500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering-2nnwc
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4901acc467f13a344a723@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251105T200000Z
+DTEND:20251106T000000Z
+SUMMARY:Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-2
+END:VEVENT
+BEGIN:VEVENT
+UID:68a46570051232087a20972b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251031T120000Z
+DTEND:20251031T183000Z
+SUMMARY:All Saints Day Festival Day
+URL:https://www.thehawthornschool.com/calendar/allsaints
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4651ced45340641f13049@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251031T040100Z
+DTEND:20251101T035000Z
+SUMMARY:End of the First Marking Period
+URL:https://www.thehawthornschool.com/calendar/end-of-the-first-marking-per
+ iod
+END:VEVENT
+BEGIN:VEVENT
+UID:68a462c3ba29875c1cd1c7ef@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251018T143000Z
+DTEND:20251018T163000Z
+SUMMARY:Hawthorn Open House
+URL:https://www.thehawthornschool.com/calendar/hawthorn-open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45da75ea75132e0b779cc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251017T120500Z
+DTEND:20251017T130500Z
+SUMMARY:Coffee &amp\; Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation-crfxn
+END:VEVENT
+BEGIN:VEVENT
+UID:68a464c840cd1f7149172626@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251013T040100Z
+DTEND:20251014T035000Z
+SUMMARY:Columbus Day
+URL:https://www.thehawthornschool.com/calendar/columbus-day
+END:VEVENT
+BEGIN:VEVENT
+UID:68a464733bb94563cc035ff7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251007T120000Z
+DTEND:20251007T183000Z
+SUMMARY:Our Lady of the Rosary Festival Day
+URL:https://www.thehawthornschool.com/calendar/our-lady-of-the-rosary-festi
+ val-day
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45d6f33c18661bce51450@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251003T120500Z
+DTEND:20251003T130500Z
+SUMMARY:Mothers' Gathering
+URL:https://www.thehawthornschool.com/calendar/mothers-gathering
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45cf00f1172437ce71500@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20251001T120000Z
+DTEND:20251001T170000Z
+SUMMARY:Picture Day
+URL:https://www.thehawthornschool.com/calendar/picture-day
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45ccbed45340641efeaca@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250924T183000Z
+DTEND:20250924T220000Z
+SUMMARY:Fall Party
+URL:https://www.thehawthornschool.com/calendar/fall-party-1
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45c9097585725d7327d7a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250919T120500Z
+DTEND:20250919T130500Z
+SUMMARY:Coffee & Conversation
+URL:https://www.thehawthornschool.com/calendar/coffee-conversation
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45bc4f44b4c0ee810566f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250917T220000Z
+DTEND:20250918T000000Z
+SUMMARY:Parents’ Orientation Night
+URL:https://www.thehawthornschool.com/calendar/parents-orientation-night-1
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45b9b12df13588ac4dc19@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250903T170000Z
+DTEND:20250903T180000Z
+SUMMARY:Holy Mass for School Opening
+URL:https://www.thehawthornschool.com/calendar/holy-mass-for-school-opening
+END:VEVENT
+BEGIN:VEVENT
+UID:68a45b591b2b4d20ce774f5f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250902T120000Z
+DTEND:20250902T183000Z
+SUMMARY:First Day of School
+URL:https://www.thehawthornschool.com/calendar/first-day-of-school
+END:VEVENT
+BEGIN:VEVENT
+UID:68a449ae5875dc2ab7d14eb1@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250901T040100Z
+DTEND:20250902T035900Z
+SUMMARY:Labor Day
+URL:https://www.thehawthornschool.com/calendar/labor-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6852a4045c71f66fb20eabc4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250827T200000Z
+DTEND:20250827T220000Z
+SUMMARY:2025 Ice Cream Social
+URL:https://www.thehawthornschool.com/calendar/2025-ice-cream-social
+END:VEVENT
+BEGIN:VEVENT
+UID:68a4490940cd1f7149130b85@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250825T130000Z
+DTEND:20250826T190000Z
+SUMMARY:Faculty Workshop
+URL:https://www.thehawthornschool.com/calendar/faculty-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97828593b85544320c3f2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250714T120000Z
+DTEND:20250718T130000Z
+SUMMARY:Dangerous Camp for Boys 2025
+URL:https://www.thehawthornschool.com/calendar/dangerous-camp-for-boys-2025
+ -1
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97a1b60072c336c7a0a3d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250714T120000Z
+DTEND:20250718T200000Z
+SUMMARY:Daring Camp for Girls 2025
+URL:https://www.thehawthornschool.com/calendar/daring-camp-for-girls-2025-1
+END:VEVENT
+BEGIN:VEVENT
+UID:681266de52fbea49f824d815@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250707T130000Z
+DTEND:20250725T160000Z
+SUMMARY:Hockey-Writing Camp
+URL:https://www.thehawthornschool.com/calendar/hockey-writing-camp
+END:VEVENT
+BEGIN:VEVENT
+UID:67c976d0894da6499adc20d3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250707T120000Z
+DTEND:20250711T200000Z
+SUMMARY:Dangerous Camp for Boys 2025
+URL:https://www.thehawthornschool.com/calendar/dangerous-camp-for-boys-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:67c979a22b28e061655ea189@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250707T120000Z
+DTEND:20250711T200000Z
+SUMMARY:Daring Camp for Girls 2025
+URL:https://www.thehawthornschool.com/calendar/daring-camp-for-girls-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:66c490bc697b83153c6a1258@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250617T160000Z
+DTEND:20250617T170000Z
+SUMMARY:Last Day of School 2025 - Field Day - Early Dismissal 12pm
+URL:https://www.thehawthornschool.com/calendar/2025-early-dismissal-12-pm-2
+END:VEVENT
+BEGIN:VEVENT
+UID:66c4906bc7d57c63b349ade3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250616T160000Z
+DTEND:20250616T160000Z
+SUMMARY:2025 Field Day -  Early Dismissal: 12 pm
+URL:https://www.thehawthornschool.com/calendar/2024-early-dismissal-12-pm-1
+END:VEVENT
+BEGIN:VEVENT
+UID:66c4903191771f264b1adf50@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250613T040000Z
+DTEND:20250613T040000Z
+SUMMARY:2025 End of the fourth marking period
+URL:https://www.thehawthornschool.com/calendar/2025-end-of-the-fourth-marki
+ ng-period
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d9a969bbf3c3ed00351@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250604T120000Z
+DTEND:20250604T130000Z
+SUMMARY:Moms' gathering (2025 - June)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-june
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97642f4ccbf1a0fdf8a7a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250601T143000Z
+DTEND:20250601T153000Z
+SUMMARY:First Holy Communion at St. Patricks
+URL:https://www.thehawthornschool.com/calendar/first-holy-communion-at-st-p
+ atricks
+END:VEVENT
+BEGIN:VEVENT
+UID:6812648e0db0f12a94fa519e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250530T174500Z
+DTEND:20250530T184500Z
+SUMMARY:Musical Assembly
+URL:https://www.thehawthornschool.com/calendar/musical-assembly
+END:VEVENT
+BEGIN:VEVENT
+UID:67ed1619468d7371c1e18976@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250528T230000Z
+DTEND:20250529T010000Z
+SUMMARY:Living an Integrated Life
+URL:https://www.thehawthornschool.com/calendar/markedelson
+END:VEVENT
+BEGIN:VEVENT
+UID:680893017513d555c9ae2590@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250528T140000Z
+DTEND:20250528T160000Z
+SUMMARY:Open House
+URL:https://www.thehawthornschool.com/calendar/admissions-open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48ff4338e824c9b812005@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250526T040000Z
+DTEND:20250526T040000Z
+SUMMARY:2025 Memorial Day - no school
+URL:https://www.thehawthornschool.com/calendar/2025-memorial-day-no-school
+END:VEVENT
+BEGIN:VEVENT
+UID:682ade977ad16a394f53011f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250523T050000Z
+DTEND:20250523T165000Z
+SUMMARY:Deadline to Pre-Order Hawthorn’s 2024-25 Yearbook
+URL:https://www.thehawthornschool.com/calendar/deadline-to-pre-order-hawtho
+ rns-2024-25-yearbook
+END:VEVENT
+BEGIN:VEVENT
+UID:682ade641a84205facbd2c11@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250522T120000Z
+DTEND:20250522T130000Z
+SUMMARY:Kindergarten & Grade 1 Field Trip to Muscoot Farm
+URL:https://www.thehawthornschool.com/calendar/kindergarten-grade-1-field-t
+ rip-to-muscoot-farm
+END:VEVENT
+BEGIN:VEVENT
+UID:682addbab1684522e473cc84@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250521T041000Z
+DTEND:20250521T165000Z
+SUMMARY:Poetry Contest Announcement at the Bedford Free Library
+URL:https://www.thehawthornschool.com/calendar/poetry-contest-announcement-
+ at-the-bedford-free-library
+END:VEVENT
+BEGIN:VEVENT
+UID:682add1f74781676d538d074@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250520T063000Z
+DTEND:20250520T184500Z
+SUMMARY:First Communion Meeting
+URL:https://www.thehawthornschool.com/calendar/first-communion-meeting
+END:VEVENT
+BEGIN:VEVENT
+UID:682adc36a65ba17c89cad7a7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250516T040500Z
+DTEND:20250516T165500Z
+SUMMARY:Grades 2-9 Girls Field Trip
+URL:https://www.thehawthornschool.com/calendar/4yboowpurwdqm9np2jfm6ycml9l2
+ st
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9b43a9b9a673951e9078@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250515T120500Z
+DTEND:20250515T130500Z
+SUMMARY:2025 Coffee with the president (May)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-may
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97414a61f2169e7a2fb6a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250507T230000Z
+DTEND:20250508T010000Z
+SUMMARY:Guest Speaker Event with Sohrab Ahmari
+URL:https://www.thehawthornschool.com/calendar/250507sohrab
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d6ebda611175deecae6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250507T120000Z
+DTEND:20250507T130000Z
+SUMMARY:Moms' gathering (2025 - May)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-may
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48fb85a1b0e66348b8168@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250502T180000Z
+DTEND:20250502T190000Z
+SUMMARY:2025 Spring concert
+URL:https://www.thehawthornschool.com/calendar/2025-spring-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48f831823fe73d0e673cd@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250501T040500Z
+DTEND:20250502T035500Z
+SUMMARY:2025 St. Joseph the Worker - Festival Day
+URL:https://www.thehawthornschool.com/calendar/2025-st-joseph-the-worker-fe
+ stival-day
+END:VEVENT
+BEGIN:VEVENT
+UID:67dbf526e4cb174240b875ce@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250430T120000Z
+DTEND:20250430T131000Z
+SUMMARY:Hawthorn Girls Grades 2-9 visit Untermyer Gardens (Yonkers\, NY)
+URL:https://www.thehawthornschool.com/calendar/hawthorn-girls-grades-2-9-vi
+ sit-untermyer-gardens-yonkers-ny
+END:VEVENT
+BEGIN:VEVENT
+UID:67dbf4cfbdc7b7456522abcc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250429T120000Z
+DTEND:20250429T130000Z
+SUMMARY:Hawthorn Boys Grades 2-9 visit Untermyer Gardens (Yonkers\, NY)
+URL:https://www.thehawthornschool.com/calendar/hawthorn-boys-grades-2-9-vis
+ it-untermyer-gardens-yonkers-ny
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97828593b85544320c3f2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250714T120000Z
+DTEND:20250718T130000Z
+SUMMARY:Dangerous Camp for Boys 2025
+URL:https://www.thehawthornschool.com/calendar/dangerous-camp-for-boys-2025
+ -1
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97a1b60072c336c7a0a3d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250714T120000Z
+DTEND:20250718T200000Z
+SUMMARY:Daring Camp for Girls 2025
+URL:https://www.thehawthornschool.com/calendar/daring-camp-for-girls-2025-1
+END:VEVENT
+BEGIN:VEVENT
+UID:67c976d0894da6499adc20d3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250707T120000Z
+DTEND:20250711T200000Z
+SUMMARY:Dangerous Camp for Boys 2025
+URL:https://www.thehawthornschool.com/calendar/dangerous-camp-for-boys-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:67c979a22b28e061655ea189@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250707T120000Z
+DTEND:20250711T200000Z
+SUMMARY:Daring Camp for Girls 2025
+URL:https://www.thehawthornschool.com/calendar/daring-camp-for-girls-2025
+END:VEVENT
+BEGIN:VEVENT
+UID:66c490bc697b83153c6a1258@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250617T160000Z
+DTEND:20250617T170000Z
+SUMMARY:Last Day of School 2025 - Field Day - Early Dismissal 12pm
+URL:https://www.thehawthornschool.com/calendar/2025-early-dismissal-12-pm-2
+END:VEVENT
+BEGIN:VEVENT
+UID:66c4906bc7d57c63b349ade3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250616T160000Z
+DTEND:20250616T160000Z
+SUMMARY:2025 Field Day -  Early Dismissal: 12 pm
+URL:https://www.thehawthornschool.com/calendar/2024-early-dismissal-12-pm-1
+END:VEVENT
+BEGIN:VEVENT
+UID:66c4903191771f264b1adf50@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250613T040000Z
+DTEND:20250613T040000Z
+SUMMARY:2025 End of the fourth marking period
+URL:https://www.thehawthornschool.com/calendar/2025-end-of-the-fourth-marki
+ ng-period
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d9a969bbf3c3ed00351@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250604T120000Z
+DTEND:20250604T130000Z
+SUMMARY:Moms' gathering (2025 - June)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-june
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97642f4ccbf1a0fdf8a7a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250601T143000Z
+DTEND:20250601T153000Z
+SUMMARY:First Holy Communion at St. Patricks
+URL:https://www.thehawthornschool.com/calendar/first-holy-communion-at-st-p
+ atricks
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48ff4338e824c9b812005@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250526T040000Z
+DTEND:20250526T040000Z
+SUMMARY:2025 Memorial Day - no school
+URL:https://www.thehawthornschool.com/calendar/2025-memorial-day-no-school
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9b43a9b9a673951e9078@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250515T120500Z
+DTEND:20250515T130500Z
+SUMMARY:2025 Coffee with the president (May)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-may
+END:VEVENT
+BEGIN:VEVENT
+UID:67c97414a61f2169e7a2fb6a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250507T230000Z
+DTEND:20250508T010000Z
+SUMMARY:Guest Speaker Event with Sohrab Ahmari
+URL:https://www.thehawthornschool.com/calendar/250507sohrab
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d6ebda611175deecae6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250507T120000Z
+DTEND:20250507T130000Z
+SUMMARY:Moms' gathering (2025 - May)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-may
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48fb85a1b0e66348b8168@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250502T180000Z
+DTEND:20250502T190000Z
+SUMMARY:2025 Spring concert
+URL:https://www.thehawthornschool.com/calendar/2025-spring-concert
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48f831823fe73d0e673cd@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250501T040500Z
+DTEND:20250502T035500Z
+SUMMARY:2025 St. Joseph the Worker - Festival Day
+URL:https://www.thehawthornschool.com/calendar/2025-st-joseph-the-worker-fe
+ stival-day
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48f0f29395d273d32cf17@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250417T040000Z
+DTEND:20250427T040000Z
+SUMMARY:2025 Easter Break
+URL:https://www.thehawthornschool.com/calendar/easter-break-
+END:VEVENT
+BEGIN:VEVENT
+UID:66c488f423e5377425b1a85c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250410T120000Z
+DTEND:20250410T130500Z
+SUMMARY:2025 Coffee with the president (April)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-april
+END:VEVENT
+BEGIN:VEVENT
+UID:6729248253fa394354f1e02b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250409T120000Z
+DTEND:20250410T032500Z
+SUMMARY:Moms' gathering (2025 - April)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-april
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48e9ae48afc6981a704ed@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250408T140000Z
+DTEND:20250408T160000Z
+SUMMARY:2025 Open House (Spring)
+URL:https://www.thehawthornschool.com/calendar/2025-open-house-spring
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca0cbb2c58674938ad697@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250402T190000Z
+DTEND:20250402T230000Z
+SUMMARY:2025 Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/2025-parent-teacher-conferen
+ ces
+END:VEVENT
+BEGIN:VEVENT
+UID:67dbe6cb46c07b436db780b8@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250331T040500Z
+DTEND:20250401T035500Z
+SUMMARY:Start of Spring Clubs
+URL:https://www.thehawthornschool.com/calendar/start-of-spring-clubs
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48db889b5ed24158cbe81@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250328T040500Z
+DTEND:20250329T035000Z
+SUMMARY:2025 End of Third marking period
+URL:https://www.thehawthornschool.com/calendar/2024-end-of-third-marking-pe
+ riod
+END:VEVENT
+BEGIN:VEVENT
+UID:67dbe314a95e280cd0535115@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250328T040500Z
+DTEND:20250329T035000Z
+SUMMARY:Showing Love to Seniors
+URL:https://www.thehawthornschool.com/calendar/showing-love-to-seniors
+END:VEVENT
+BEGIN:VEVENT
+UID:67dbe26c91800b7da1d10ae1@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250325T040500Z
+DTEND:20250326T035000Z
+SUMMARY:Last Day of Chess Club
+URL:https://www.thehawthornschool.com/calendar/last-day-of-chess-club
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48d615aa36002f7ed5465@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250325T040000Z
+DTEND:20250325T050000Z
+SUMMARY:2025 Feast of the Annunciation - Festival Day
+URL:https://www.thehawthornschool.com/calendar/2025-annunciation-festival-d
+ ay
+END:VEVENT
+BEGIN:VEVENT
+UID:67dbe04313abfe3503a78688@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250321T121500Z
+DTEND:20250321T131500Z
+SUMMARY:Hawthorn Rosary Group
+URL:https://www.thehawthornschool.com/calendar/hawthorn-rosary-group
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9aaf5a6fa2171c82b02c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250320T120000Z
+DTEND:20250320T130000Z
+SUMMARY:2025 Coffee with the president (March)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-march
+END:VEVENT
+BEGIN:VEVENT
+UID:67c970a2b37ce6248746c490@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250307T131500Z
+DTEND:20250307T141500Z
+SUMMARY:Hawthorn Rosary Group
+URL:https://www.thehawthornschool.com/calendar/4hzyd315vnxkfftexdy8dcu92hti
+ 1s
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d53bd07a04beb354bcd@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250305T050000Z
+DTEND:20250305T050000Z
+SUMMARY:Moms' gathering (2025 - March)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-march
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48d04795bec0cf1c59a18@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250305T050000Z
+DTEND:20250305T050000Z
+SUMMARY:Ash Wednesday
+URL:https://www.thehawthornschool.com/calendar/ash-wednesday-1
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d9a969bbf3c3ed00351@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250604T120000Z
+DTEND:20250604T130000Z
+SUMMARY:Moms' gathering (2025 - June)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-june
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9b43a9b9a673951e9078@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250515T120500Z
+DTEND:20250515T130500Z
+SUMMARY:2025 Coffee with the president (May)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-may
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d6ebda611175deecae6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250507T120000Z
+DTEND:20250507T130000Z
+SUMMARY:Moms' gathering (2025 - May)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-may
+END:VEVENT
+BEGIN:VEVENT
+UID:66c488f423e5377425b1a85c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250410T120000Z
+DTEND:20250410T130500Z
+SUMMARY:2025 Coffee with the president (April)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-april
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca0cbb2c58674938ad697@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250402T190000Z
+DTEND:20250402T230000Z
+SUMMARY:2025 Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/2025-parent-teacher-conferen
+ ces
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9aaf5a6fa2171c82b02c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250320T120000Z
+DTEND:20250320T130000Z
+SUMMARY:2025 Coffee with the president (March)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-march
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d53bd07a04beb354bcd@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250305T050000Z
+DTEND:20250305T050000Z
+SUMMARY:Moms' gathering (2025 - March)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-march
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48ca66c0c436aac1ca198@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250215T050000Z
+DTEND:20250223T050000Z
+SUMMARY:2025 Winter Break
+URL:https://www.thehawthornschool.com/calendar/2025-winter-break
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9a86ef45e96ce512e386@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250213T130500Z
+DTEND:20250213T140500Z
+SUMMARY:2025 Coffee with the president (February)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-feb
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9d2b217193309db8c1c0@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250205T131500Z
+DTEND:20250205T144000Z
+SUMMARY:Moms' gathering (2025 - February)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-feb
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48c581c07f951f97bb753@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250201T153000Z
+DTEND:20250201T163000Z
+SUMMARY:2025 Open House
+URL:https://www.thehawthornschool.com/calendar/2025-open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48c1e0b238f201a653628@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250122T200000Z
+DTEND:20250122T210000Z
+SUMMARY:2025 Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/2024-parent-teacher-conferen
+ ces-je327
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48bb5957adb629da61534@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250120T050000Z
+DTEND:20250120T050000Z
+SUMMARY:2025 Martin Luther King Day
+URL:https://www.thehawthornschool.com/calendar/2025-martin-luther-king-day
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48b4060dc2b597b0c1d11@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250117T050000Z
+DTEND:20250117T050000Z
+SUMMARY:2025 End of Second marking period
+URL:https://www.thehawthornschool.com/calendar/2024-end-of-second-marking-p
+ eriod
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9a54bd07a04beb34854b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250116T130500Z
+DTEND:20250116T140500Z
+SUMMARY:2025 Coffee with the president (January)
+URL:https://www.thehawthornschool.com/calendar/2025-coffee-with-the-preside
+ nt-jan
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9cf5b8aa9b31f716d270@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20250108T050000Z
+DTEND:20250108T050000Z
+SUMMARY:Moms' gathering (2025 - January)
+URL:https://www.thehawthornschool.com/calendar/2025-moms-gathering-jan
+END:VEVENT
+BEGIN:VEVENT
+UID:66c48ab9d6a5db66e6a461b0@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241221T050000Z
+DTEND:20250106T010500Z
+SUMMARY:2024 Christmas Break
+URL:https://www.thehawthornschool.com/calendar/2024-christmas-break
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9a2810fe726b8a752043@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241219T130500Z
+DTEND:20241219T140500Z
+SUMMARY:2024 Coffee with the president (December)
+URL:https://www.thehawthornschool.com/calendar/2024-coffee-with-the-preside
+ nt-dec
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca4b233d2413ac33956bd@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241215T190000Z
+DTEND:20241215T220000Z
+SUMMARY:2024 Hawthorn Christmas Party
+URL:https://www.thehawthornschool.com/calendar/2024-hawthorn-christmas-part
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9cd22596470a025928e5@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241204T050000Z
+DTEND:20241204T050000Z
+SUMMARY:Moms' gathering (2024 - December)
+URL:https://www.thehawthornschool.com/calendar/2024-moms-gathering-dec
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca4707d95014f8fc293f2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241128T050000Z
+DTEND:20241202T045500Z
+SUMMARY:2024 Thanksgiving break
+URL:https://www.thehawthornschool.com/calendar/2024-thanksgiving-break
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca44b92eb9749b4dedf4b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241127T170000Z
+DTEND:20241127T170000Z
+SUMMARY:2024 Early Dismissal: 12 pm
+URL:https://www.thehawthornschool.com/calendar/2024-early-dismissal-12-pm
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc99fe486b12723f42b861@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241121T130500Z
+DTEND:20241121T140500Z
+SUMMARY:2024 Coffee with the president (November)
+URL:https://www.thehawthornschool.com/calendar/2024-coffee-with-the-preside
+ nt-nov
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9cb471a1cd00e25a5c2e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241113T050000Z
+DTEND:20241113T050000Z
+SUMMARY:Moms' gathering(2024 - November)
+URL:https://www.thehawthornschool.com/calendar/2024-moms-gatheringfathers-c
+ lub-night-nov
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca121e32deb685baf5544@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241111T050000Z
+DTEND:20241111T050000Z
+SUMMARY:2024 Veterans Day
+URL:https://www.thehawthornschool.com/calendar/2024-veterans-day
+END:VEVENT
+BEGIN:VEVENT
+UID:66bca0475a6fa2171c83bd04@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241106T200000Z
+DTEND:20241107T000000Z
+SUMMARY:2024 Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/2024-parent-teacher-conferen
+ ces
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9ee5396d040bc651a542@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241101T040000Z
+DTEND:20241101T040000Z
+SUMMARY:2024 End of First marking period
+URL:https://www.thehawthornschool.com/calendar/2024-end-of-first-marking-pe
+ riod
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9ecc80f68e5932c27ad2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241101T040000Z
+DTEND:20241101T040000Z
+SUMMARY:2024 All Saints - Festival day
+URL:https://www.thehawthornschool.com/calendar/2024-all-saints-festival-day
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9ea8dee6f51001dce424@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241019T143000Z
+DTEND:20241019T163000Z
+SUMMARY:2024 Fall Open House
+URL:https://www.thehawthornschool.com/calendar/2024-open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc99aadee6f51001dbdca3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20241017T120500Z
+DTEND:20241017T130500Z
+SUMMARY:2024 Coffee with the president (October)
+URL:https://www.thehawthornschool.com/calendar/2024-coffee-with-the-preside
+ nt-oct
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9951c1557c639301fad7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240919T120500Z
+DTEND:20240919T131500Z
+SUMMARY:2024 Coffee with the president (September)
+URL:https://www.thehawthornschool.com/calendar/2024-coffee-with-the-preside
+ nt
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc992dc7e830287543d827@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240918T220000Z
+DTEND:20240918T230000Z
+SUMMARY:2024 Parents Orientation Night
+URL:https://www.thehawthornschool.com/calendar/2024-parents-orientation-nig
+ ht
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc990ea9b9a673951e0d79@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240904T170000Z
+DTEND:20240904T180500Z
+SUMMARY:2024 Holy Mass for school opening
+URL:https://www.thehawthornschool.com/calendar/2024-holy-mass-for-school-op
+ ening
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc98da9f2ea62d0610b3e6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240903T040000Z
+DTEND:20240903T040000Z
+SUMMARY:2024 First Day of School
+URL:https://www.thehawthornschool.com/calendar/2024-first-day-of-school
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc9886dee6f51001dba552@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240902T040000Z
+DTEND:20240902T040000Z
+SUMMARY:2024 Labor Day Holiday - No School
+URL:https://www.thehawthornschool.com/calendar/2024-labor-day-holiday-no-sc
+ hool
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc98128d914710f1c71f4b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240828T200000Z
+DTEND:20240828T220000Z
+SUMMARY:2024 Ice Cream Social
+URL:https://www.thehawthornschool.com/calendar/2024-ice-cream-social
+END:VEVENT
+BEGIN:VEVENT
+UID:66bc96b0396d040bc64fedd4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240826T130000Z
+DTEND:20240827T190000Z
+SUMMARY:2024 Teacher Workshop
+URL:https://www.thehawthornschool.com/calendar/2024-teacher-workshop
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0e401398b362f226eb35e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240618T160000Z
+DTEND:20240618T170000Z
+SUMMARY:Field Day\, dismissal at noon
+URL:https://www.thehawthornschool.com/calendar/field-day-dismissal-at-noon2
+ 024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0e3c376da863ebb1e7eca@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240617T160000Z
+DTEND:20240617T170000Z
+SUMMARY:Field Day-dismissal at noon: Picnic
+URL:https://www.thehawthornschool.com/calendar/field-day-dismissal-at-noon-
+ 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0e37addb7932eb7de1c9f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240611T040000Z
+DTEND:20240612T035500Z
+SUMMARY:End of the fourth marking period
+URL:https://www.thehawthornschool.com/calendar/end-of-the-fourth-marking-pe
+ riod-2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0e1746fee636cd481460b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240605T120500Z
+DTEND:20240605T130500Z
+SUMMARY:Moms’ gathering/Fathers’ Club Night (Jun 2024)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-jun2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0e231352061084fb111c4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240527T040000Z
+DTEND:20240528T035500Z
+SUMMARY:Memorial Day-no school
+URL:https://www.thehawthornschool.com/calendar/memorial-day-no-school-1
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0e1e447825a1880656555@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240516T120500Z
+DTEND:20240516T130500Z
+SUMMARY:Coffee with the president (05.16.24)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentmay202
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:6619697df5e669680a5c25f9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240508T120500Z
+DTEND:20240508T130500Z
+SUMMARY:Moms’ gathering/Fathers’ Club Night (May 2024)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-jun2024-5spg8
+END:VEVENT
+BEGIN:VEVENT
+UID:6615485037620615844cd0f5@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240503T180000Z
+DTEND:20240503T190000Z
+SUMMARY:Spring Concert Friday
+URL:https://www.thehawthornschool.com/calendar/1ua6oxmvvucngder22y1x7s905z5
+ 3j
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a7cfddb7932eb7d9501d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240501T040000Z
+DTEND:20240501T050000Z
+SUMMARY:St Joseph Festival
+URL:https://www.thehawthornschool.com/calendar/st-joseph-festival-1
+END:VEVENT
+BEGIN:VEVENT
+UID:661968f35891726674a0c3e4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240429T230000Z
+DTEND:20240430T003000Z
+SUMMARY:Pre-K information session
+URL:https://www.thehawthornschool.com/calendar/prekinformationsession
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a794d913c822bececf7c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240420T143000Z
+DTEND:20240420T163000Z
+SUMMARY:Open House (Apr 2024)
+URL:https://www.thehawthornschool.com/calendar/open-house-apr-2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a761ddb7932eb7d947ae@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240418T120500Z
+DTEND:20240418T130500Z
+SUMMARY:Coffee with the president (04.18.24)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentapr202
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a71dbf34b4427db60962@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240410T120500Z
+DTEND:20240410T130500Z
+SUMMARY:Mom's gathering/Father's Club Night (Apr 2024)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-mar2024-ghmr2
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a691e7a3520423834bf2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240328T040000Z
+DTEND:20240408T035500Z
+SUMMARY:Easter Break (03.28 to 04.07)
+URL:https://www.thehawthornschool.com/calendar/easter-break-2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a5dac3dafa01ab117c30@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240327T190000Z
+DTEND:20240327T233000Z
+SUMMARY:Parent-Teacher Conferences (Mar 2024)
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-m
+ ar2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a45d38377f27fef12a7d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240322T040000Z
+DTEND:20240323T035500Z
+SUMMARY:End of the Third Marking Period (2024)
+URL:https://www.thehawthornschool.com/calendar/end-of-the-third-marking-per
+ iod-1
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a32b3b8a7b2088f236cf@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240314T120500Z
+DTEND:20240314T130500Z
+SUMMARY:Coffee with the president (03.14.24)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentmar202
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a24bce08ef389d08a2bc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240306T130500Z
+DTEND:20240306T140500Z
+SUMMARY:Mom's gathering/Father's Club Night (Mar 2024)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-mar2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a1cf7105eb4a463615c7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240219T050000Z
+DTEND:20240224T045500Z
+SUMMARY:President's Day/ Winter break (02.19 to 02.23)
+URL:https://www.thehawthornschool.com/calendar/presidents-day-winter-break-
+ 2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a16c61d39a3811c63e3a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240215T130500Z
+DTEND:20240215T140500Z
+SUMMARY:Coffee with the president (02.15.24)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentfeb202
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a1188f6ea0338d696422@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240214T050000Z
+DTEND:20240215T045500Z
+SUMMARY:Ash Wednesday (2024)
+URL:https://www.thehawthornschool.com/calendar/ashwednesday2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e0a07e05a6b577d3ae59d3@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240210T233000Z
+DTEND:20240211T021500Z
+SUMMARY:Couples' dinner with Naomi Schaefer Riley
+URL:https://www.thehawthornschool.com/calendar/couples-dinner-2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e09fe8bf34b4427db59eea@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240207T130500Z
+DTEND:20240207T140500Z
+SUMMARY:Mom's gathering/Father's Club Night (Feb 2024)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-feb2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e09fa3f32e411dc632e022@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240131T200000Z
+DTEND:20240131T210000Z
+SUMMARY:Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-j
+ an2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e09f50c2cff56e231a014a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240126T050000Z
+DTEND:20240126T060000Z
+SUMMARY:End of second marking period 2024
+URL:https://www.thehawthornschool.com/calendar/end-of-second-marking-period
+ -2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e09ef0d1dc413330609296@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240118T130500Z
+DTEND:20240118T140500Z
+SUMMARY:Coffee with the president (01.18.24)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentjan202
+ 4
+END:VEVENT
+BEGIN:VEVENT
+UID:64e09eb43ec2342be7ecf585@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240115T050000Z
+DTEND:20240116T045500Z
+SUMMARY:Martin Luther King Day-no school
+URL:https://www.thehawthornschool.com/calendar/martin-luther-king-day-no-sc
+ hool-2024
+END:VEVENT
+BEGIN:VEVENT
+UID:64e09e50bf828035a31208b8@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20240110T130500Z
+DTEND:20240110T140500Z
+SUMMARY:Mom's gathering/Father's Club Night (Jan 2024)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-jan2024
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d2d9f3f9ed1c799252cb@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231218T055500Z
+DTEND:20240102T045500Z
+SUMMARY:Christmas break
+URL:https://www.thehawthornschool.com/calendar/christmas-break-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cd77cdf90771b91b46ef@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231214T130500Z
+DTEND:20231214T140500Z
+SUMMARY:Coffee with the president (12.14.23)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentdec23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d28d4434657e826af2db@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231210T190000Z
+DTEND:20231210T220000Z
+SUMMARY:Hawthorn Christmas Party
+URL:https://www.thehawthornschool.com/calendar/hawthorn-christmas-party-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cef0b16fb229084c3200@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231206T130500Z
+DTEND:20231206T140500Z
+SUMMARY:Mom's gathering/Father's Club Night (Dec 23)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-dec23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d2621c8be82811afd6d2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231123T050000Z
+DTEND:20231127T045500Z
+SUMMARY:Thanksgiving break
+URL:https://www.thehawthornschool.com/calendar/thanksgiving-break-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d2326d001076de725366@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231122T170000Z
+DTEND:20231122T170000Z
+SUMMARY:Early Dismissal: 12pm
+URL:https://www.thehawthornschool.com/calendar/early-dismissal-12pm
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cd29cdf90771b91b429e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231116T130500Z
+DTEND:20231116T140500Z
+SUMMARY:Coffee with the president (11.16.23)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentnov23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d2039c7aad5788d3e4a6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231115T200000Z
+DTEND:20231116T003000Z
+SUMMARY:Parent-Teacher Conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d1d7295cc1115f58326c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231111T050000Z
+DTEND:20231112T045500Z
+SUMMARY:Veterans Day
+URL:https://www.thehawthornschool.com/calendar/veterans-day
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d1a6f17788082f2cf399@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231109T050000Z
+DTEND:20231110T045500Z
+SUMMARY:End of first marking period 2023
+URL:https://www.thehawthornschool.com/calendar/end-of-first-marking-period-
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:6492ce72cdf90771b91b5abc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231108T130500Z
+DTEND:20231108T140500Z
+SUMMARY:Mom's gathering/Father's Club Night (Nov 23)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-nov23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d184464e844e8ebc71ad@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231101T040000Z
+DTEND:20231102T035500Z
+SUMMARY:All Saints-festival day
+URL:https://www.thehawthornschool.com/calendar/all-saints-festival-day-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d057295cc1115f581cfc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231021T143000Z
+DTEND:20231021T163000Z
+SUMMARY:Fall Open House 2023
+URL:https://www.thehawthornschool.com/calendar/fall-open-house-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cc7f283f10393b048a6c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231019T120500Z
+DTEND:20231019T130500Z
+SUMMARY:Coffee with the president (10.19.23)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentoct23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cdd8ca1ec57a3208e132@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231011T120500Z
+DTEND:20231012T010000Z
+SUMMARY:Mom's gathering/Father's Club Night (Oct 23)
+URL:https://www.thehawthornschool.com/calendar/momsgatheringandfathersclubn
+ ight-oct23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d0370bad86019ef17cb6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231009T040000Z
+DTEND:20231010T035500Z
+SUMMARY:Columbus Day-no school
+URL:https://www.thehawthornschool.com/calendar/columbus-day-no-school
+END:VEVENT
+BEGIN:VEVENT
+UID:6492d00b5e6f6c2da3aa4d75@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20231006T040000Z
+DTEND:20231007T035500Z
+SUMMARY:Feast of our Lady of the Rosary&nbsp\;2023
+URL:https://www.thehawthornschool.com/calendar/feast-of-our-lady-of-the-ros
+ ary
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cf58d188936db96c48d6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230927T190000Z
+DTEND:20230927T210000Z
+SUMMARY:Fall Party 2023
+URL:https://www.thehawthornschool.com/calendar/fall-party-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cc57295cc1115f57b71e@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230921T120500Z
+DTEND:20230921T130500Z
+SUMMARY:Coffee with the president (09.21.23)
+URL:https://www.thehawthornschool.com/calendar/coffeewiththepresidentsep23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cc11734e217faba831f5@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230913T220000Z
+DTEND:20230914T010000Z
+SUMMARY:Parents Orientation Night
+URL:https://www.thehawthornschool.com/calendar/parents-orientation-night
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cbe40559f76eee8b0741@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230906T170000Z
+DTEND:20230906T180000Z
+SUMMARY:Holy Mass
+URL:https://www.thehawthornschool.com/calendar/holy-mass-2023
+END:VEVENT
+BEGIN:VEVENT
+UID:6492cbc2734e217faba826e8@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230905T040000Z
+DTEND:20230906T035500Z
+SUMMARY:First Day of School
+URL:https://www.thehawthornschool.com/calendar/firstdayofschool23
+END:VEVENT
+BEGIN:VEVENT
+UID:6492c91fb16fb229084b8772@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230904T040000Z
+DTEND:20230905T035500Z
+SUMMARY:Labor Day Holiday-no school&nbsp\;
+URL:https://www.thehawthornschool.com/calendar/laborday
+END:VEVENT
+BEGIN:VEVENT
+UID:6492c7cc264ffb3b0e603285@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230830T200000Z
+DTEND:20230830T220000Z
+SUMMARY:Ice Cream Social
+URL:https://www.thehawthornschool.com/calendar/ice-cream-social
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfeae4de99e595cf57cd7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230618T040000Z
+DTEND:20230619T035500Z
+SUMMARY:Father's Day
+URL:https://www.thehawthornschool.com/calendar/fathers-day
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfe95a241732c2bc95a13@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230615T160000Z
+DTEND:20230615T170000Z
+SUMMARY:Field Day-dismissal at noon: Picnic
+URL:https://www.thehawthornschool.com/calendar/field-day-dismissal-at-noon-
+ w8b24
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfe706fbcba59aec15e02@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230614T160000Z
+DTEND:20230614T170000Z
+SUMMARY:Field Day\, dismissal at noon
+URL:https://www.thehawthornschool.com/calendar/field-day-dismissal-at-noon
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfe55d3aca05cbb880777@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230529T040000Z
+DTEND:20230530T035500Z
+SUMMARY:Memorial Day\, No School
+URL:https://www.thehawthornschool.com/calendar/memorial-day-no-school
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfe34ee902c198d543859@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230518T121000Z
+DTEND:20230518T131000Z
+SUMMARY:Coffee with the President (May)
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president-ma
+ y
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfe19ea0b0d14d4bc1224@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230514T040000Z
+DTEND:20230515T035500Z
+SUMMARY:Mother’s Day
+URL:https://www.thehawthornschool.com/calendar/mothers-day
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfdfd27eea40ee5420348@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230501T040000Z
+DTEND:20230502T035500Z
+SUMMARY:St. Joseph Festival
+URL:https://www.thehawthornschool.com/calendar/st-joseph-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfdc2b80e2e440ff90e1f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230429T143000Z
+DTEND:20230429T163000Z
+SUMMARY:Open House
+URL:https://www.thehawthornschool.com/calendar/open-house
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfc2b8f899869a84bee27@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230420T121000Z
+DTEND:20230420T131000Z
+SUMMARY:Coffee with the President (April)
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president-ap
+ ril
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfba0ce305a3bb3420db6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230419T230000Z
+DTEND:20230420T000000Z
+SUMMARY:Father's Club Night
+URL:https://www.thehawthornschool.com/calendar/fathers-club-night-april
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbf77f27eea40ee5416a67@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230406T040000Z
+DTEND:20230417T035500Z
+SUMMARY:Easter Break
+URL:https://www.thehawthornschool.com/calendar/easter-break
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbfae5c09ea262fc176af9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230403T190000Z
+DTEND:20230403T233000Z
+SUMMARY:Parent teacher conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences-a
+ pril
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbf73e38d0fd0d41bfa32d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230402T040000Z
+DTEND:20230403T035500Z
+SUMMARY:Palm Sunday
+URL:https://www.thehawthornschool.com/calendar/palm-sunday
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e9298988560bd8cdbe1a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230331T040000Z
+DTEND:20230401T035500Z
+SUMMARY:End of the third marking period
+URL:https://www.thehawthornschool.com/calendar/end-of-the-third-marking-per
+ iod
+END:VEVENT
+BEGIN:VEVENT
+UID:63bbf6848848316b40430540@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230324T040000Z
+DTEND:20230325T035500Z
+SUMMARY:Festival day at the School for the Feast of the Annunciation
+URL:https://www.thehawthornschool.com/calendar/festival-day
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2dfda8a16653ff1c90fa4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230316T121000Z
+DTEND:20230316T131000Z
+SUMMARY:Coffee with the President (March)
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president-ma
+ rch
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e8e0922c361242aec9b9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230311T173000Z
+DTEND:20230311T192500Z
+SUMMARY:Couples’ dinner
+URL:https://www.thehawthornschool.com/calendar/couples-dinner
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e8a8755b204f10c39c10@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230222T050000Z
+DTEND:20230223T045500Z
+SUMMARY:Ash Wednesday
+URL:https://www.thehawthornschool.com/calendar/ash-wednesday
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e86a39fa9225fadcb80f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230220T050000Z
+DTEND:20230221T045500Z
+SUMMARY:Presidents day Holiday\, no school
+URL:https://www.thehawthornschool.com/calendar/presidents-day-holiday-no-sc
+ hool
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e80ae4ac893a6050fbcb@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230217T050000Z
+DTEND:20230218T045500Z
+SUMMARY:Teacher's workshop\, no school
+URL:https://www.thehawthornschool.com/calendar/teachers-workshop-no-school
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2df9d1d5d482ed7f8d888@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230216T131000Z
+DTEND:20230216T141000Z
+SUMMARY:Coffee with the President (February)
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president-fe
+ bruary
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e7cc481f587c9d71bde7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230209T000000Z
+DTEND:20230209T010000Z
+SUMMARY:Father's night
+URL:https://www.thehawthornschool.com/calendar/fathers-night
+END:VEVENT
+BEGIN:VEVENT
+UID:63a2e74fc1ed204856b87582@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230208T130500Z
+DTEND:20230208T141500Z
+SUMMARY:Mom's gathering
+URL:https://www.thehawthornschool.com/calendar/moms-gathering-1
+END:VEVENT
+BEGIN:VEVENT
+UID:6399aedbc561af03c03de554@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230201T200000Z
+DTEND:20230202T003000Z
+SUMMARY:Parent teacher conferences
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences2
+END:VEVENT
+BEGIN:VEVENT
+UID:6399afae0d0e1535557f3b0b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230127T050000Z
+DTEND:20230128T045500Z
+SUMMARY:End of second marking period
+URL:https://www.thehawthornschool.com/calendar/end-ofsecond-marking-period
+END:VEVENT
+BEGIN:VEVENT
+UID:6399addddff35264be3a94cb@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230119T130500Z
+DTEND:20230119T140000Z
+SUMMARY:Coffee with the President (January)
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president-1-
+ ydtdh
+END:VEVENT
+BEGIN:VEVENT
+UID:6399ae98c561af03c03dd8cc@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230116T050000Z
+DTEND:20230117T045500Z
+SUMMARY:Martin Luther King Day-No School
+URL:https://www.thehawthornschool.com/calendar/martin-luther-king-day-no-sc
+ hool
+END:VEVENT
+BEGIN:VEVENT
+UID:6399ae23262fb55142f6cc45@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230112T000000Z
+DTEND:20230112T020000Z
+SUMMARY:Father's Club Night
+URL:https://www.thehawthornschool.com/calendar/fathers-club-night
+END:VEVENT
+BEGIN:VEVENT
+UID:6399af41e8387a6aab8f4d25@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20230111T130500Z
+DTEND:20230111T141500Z
+SUMMARY:Mom's gathering “Goals and boundaries for the year ahead”
+URL:https://www.thehawthornschool.com/calendar/moms-gathering
+END:VEVENT
+BEGIN:VEVENT
+UID:63907bd9edd07c55a99b4407@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221219T050000Z
+DTEND:20230102T130000Z
+SUMMARY:Christmas Break
+URL:https://www.thehawthornschool.com/calendar/christmas-break
+END:VEVENT
+BEGIN:VEVENT
+UID:637e1e1d7fd1496595f310d4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221215T131000Z
+DTEND:20221215T140000Z
+SUMMARY:Coffee with the President
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president-1
+END:VEVENT
+BEGIN:VEVENT
+UID:637e1dce92491c57ed5e285b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221211T190000Z
+DTEND:20221211T210000Z
+SUMMARY:Hawthorn Christmas party
+URL:https://www.thehawthornschool.com/calendar/hawthorn-christmas-party
+END:VEVENT
+BEGIN:VEVENT
+UID:6362752bf3507d6c58995b68@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221130T233000Z
+DTEND:20221201T010000Z
+SUMMARY:Hawthorn Art Night
+URL:https://www.thehawthornschool.com/calendar/hawthorn-art-night
+END:VEVENT
+BEGIN:VEVENT
+UID:636274e517f63f217315c6d9@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221124T050000Z
+DTEND:20221128T045500Z
+SUMMARY:Thanksgiving break
+URL:https://www.thehawthornschool.com/calendar/thanksgiving-break
+END:VEVENT
+BEGIN:VEVENT
+UID:636273a82618df669553bb9c@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221123T170000Z
+DTEND:20221123T173000Z
+SUMMARY:Early Dismisal: 12pm
+URL:https://www.thehawthornschool.com/calendar/early-dismisal-12pm
+END:VEVENT
+BEGIN:VEVENT
+UID:637e1c661c720f7ff8c76451@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221123T133000Z
+DTEND:20221123T143000Z
+SUMMARY:Coffee with Mrs. Napolitano and Christmas decorations
+URL:https://www.thehawthornschool.com/calendar/coffee-with-mrs-napolitano-a
+ nd-christmas-decorations
+END:VEVENT
+BEGIN:VEVENT
+UID:636272dbdf86a44fed1d1c9a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221117T131000Z
+DTEND:20221117T134000Z
+SUMMARY:Coffee with the president
+URL:https://www.thehawthornschool.com/calendar/coffee-with-the-president
+END:VEVENT
+BEGIN:VEVENT
+UID:636271c7a72e680c6b00281d@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221116T230000Z
+DTEND:20221117T003000Z
+SUMMARY:Parent-Teacher night
+URL:https://www.thehawthornschool.com/calendar/parent-teacher-conferences
+END:VEVENT
+BEGIN:VEVENT
+UID:63626fde92ad1e38fed8da6b@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221111T050000Z
+DTEND:20221112T045500Z
+SUMMARY:Veterans Day (school in session)
+URL:https://www.thehawthornschool.com/calendar/veterans-day-school-in-sessi
+ on
+END:VEVENT
+BEGIN:VEVENT
+UID:63626dcdde97474482c0d2d1@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221110T050000Z
+DTEND:20221111T045500Z
+SUMMARY:End of first marking period
+URL:https://www.thehawthornschool.com/calendar/end-of-first-marking-period
+END:VEVENT
+BEGIN:VEVENT
+UID:63626a6047529247ee17d2a0@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221101T040000Z
+DTEND:20221102T035500Z
+SUMMARY:All Saints-Festival Day
+URL:https://www.thehawthornschool.com/calendar/all-saints-festival-day
+DESCRIPTION:<p class="" style="white-space:pre-wrap\;">All Saints-Festival 
+ Day</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6373624f382485336f2af6a7@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221023T173000Z
+DTEND:20221023T193000Z
+SUMMARY:Open House
+URL:https://www.thehawthornschool.com/calendar/zl4apprbt1dlmdhy31w4dwu5q488
+ ec
+END:VEVENT
+BEGIN:VEVENT
+UID:637364026898ca6e49be4482@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20221005T183000Z
+DTEND:20221005T213000Z
+SUMMARY:Fall Party
+URL:https://www.thehawthornschool.com/calendar/fall-party
+END:VEVENT
+BEGIN:VEVENT
+UID:637364a6382485336f2b2da1@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220907T170000Z
+DTEND:20220907T180000Z
+SUMMARY:Inauguration Mass
+URL:https://www.thehawthornschool.com/calendar/inauguration-mass
+END:VEVENT
+BEGIN:VEVENT
+UID:6373655bc390643bfa1f6734@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220831T200000Z
+DTEND:20220831T210000Z
+SUMMARY:Ice Cream Social at the Hawthorn School Porch
+URL:https://www.thehawthornschool.com/calendar/ice-cream-social-at-the-hawt
+ horn-school-porch
+END:VEVENT
+BEGIN:VEVENT
+UID:637366094319ed7ebf0b459a@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220811T110000Z
+DTEND:20220811T130500Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/informational-webinar-a-conv
+ ersation-with-dr-joseph-mccleary-president-of-the-hawthorn-school
+END:VEVENT
+BEGIN:VEVENT
+UID:637366907d3eb22cf30a3be6@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220614T230000Z
+DTEND:20220614T230000Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/informational-webinar-a-conv
+ ersation-with-dr-joseph-mccleary-president-of-the-hawthorn-school-1
+END:VEVENT
+BEGIN:VEVENT
+UID:637366e62f9c5d1492451445@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220525T230500Z
+DTEND:20220525T230500Z
+SUMMARY:Beyond the Screen: Active Education in a Virtual World
+URL:https://www.thehawthornschool.com/calendar/beyond-the-screen-active-edu
+ cation-in-a-virtual-world
+END:VEVENT
+BEGIN:VEVENT
+UID:6373673ea7480430d7ea2bf4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220510T230500Z
+DTEND:20220511T005500Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/informational-webinar-a-conv
+ ersation-with-dr-joseph-mccleary-president-of-the-hawthorn-school-2
+END:VEVENT
+BEGIN:VEVENT
+UID:637367926ce23a5c264908c2@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220501T160000Z
+DTEND:20220501T160000Z
+SUMMARY:Hawthorn BBQ
+URL:https://www.thehawthornschool.com/calendar/hawthorn-bbq
+END:VEVENT
+BEGIN:VEVENT
+UID:637367f498edb63bdab229ee@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220426T230500Z
+DTEND:20220427T010000Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/informational-webinar-a-conv
+ ersation-with-dr-joseph-mccleary-president-of-the-hawthorn-school-3
+END:VEVENT
+BEGIN:VEVENT
+UID:6373684f8d79224f8a2ab5cb@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220413T190500Z
+DTEND:20220413T210500Z
+SUMMARY:Earth Day Celebration: Hawthorn Clean Up
+URL:https://www.thehawthornschool.com/calendar/earth-day-celebration-hawtho
+ rn-clean-up
+END:VEVENT
+BEGIN:VEVENT
+UID:637368a1edf6a161d3e2b616@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220404T230500Z
+DTEND:20220405T000000Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/informational-webinar-a-conv
+ ersation-with-dr-joseph-mccleary-president-of-the-hawthorn-school-4
+END:VEVENT
+BEGIN:VEVENT
+UID:637368fa1a8f5368a162ad9f@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220315T231000Z
+DTEND:20220316T005000Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/informational-webinar-a-conv
+ ersation-with-dr-joseph-mccleary-president-of-the-hawthorn-school-5
+END:VEVENT
+BEGIN:VEVENT
+UID:6373693d29ffa24cf81c3cd4@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220311T180000Z
+DTEND:20220311T195000Z
+SUMMARY:Join us for a science show in collaboration with MadScience!
+URL:https://www.thehawthornschool.com/calendar/join-us-for-a-science-show-i
+ n-collaboration-with-madscience
+END:VEVENT
+BEGIN:VEVENT
+UID:637369a4e8dce71531a29789@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220301T000000Z
+DTEND:20220301T010000Z
+SUMMARY:Informational Webinar: A conversation with Dr. Joseph McCleary\, pr
+ esident of the Hawthorn School
+URL:https://www.thehawthornschool.com/calendar/73sdeag49gsh43yachdalw2gj4yf
+ 28
+END:VEVENT
+BEGIN:VEVENT
+UID:63736a181a8f5368a162bcbe@thehawthornschool.com
+DTSTAMP:20260505T133422Z
+DTSTART:20220212T173000Z
+DTEND:20220212T190000Z
+SUMMARY:A Celebration of Freedom Honoring the Birthdays of George Washingto
+ n and Abraham Lincoln
+URL:https://www.thehawthornschool.com/calendar/a-celebration-of-freedom-hon
+ oring-the-birthdays-of-george-washington-and-abraham-lincoln
+END:VEVENT
+END:VCALENDAR
